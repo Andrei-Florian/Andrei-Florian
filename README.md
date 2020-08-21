@@ -23,3 +23,8 @@ I am a full stack developer and product designer situated in sunny Dublin, Irela
 - <img align="left" alt="Behance" width="15px" src="https://github.com/Andrei-Florian/Andrei-Florian/blob/master/icons/behance.svg" /> [Behance](behance.net/andreiflorian)
 - <img align="left" alt="Dribbble" width="15px" src="https://github.com/Andrei-Florian/Andrei-Florian/blob/master/icons/dribbble.svg" /> [Dribbble](dribbble.com/AndreiFlorian)
 - <img align="left" alt="Medium" width="15px" src="https://github.com/Andrei-Florian/Andrei-Florian/blob/master/icons/medium.svg" /> [Medium](medium.com/@andreialexanderflorian)
+
+## Recent Contributions
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
