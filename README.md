@@ -1,6 +1,4 @@
 # Hi, I am Andrei Florian
-Wake up. Study. Business. Netflix. Go out.
-
 - 📍 Dublin, Ireland
 - 💡 Idea incubator
 - 🎨 Product Designer
