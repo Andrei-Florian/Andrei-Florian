@@ -1,6 +1,5 @@
 # Hi, I am Andrei Florian
 - 📍 Dublin, Ireland
-- 💡 Idea incubator
 - 🎨 Product Designer
 - 💻 Full Stack developer
 - ✍ Columnist at Medium
